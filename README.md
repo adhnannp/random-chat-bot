@@ -1,5 +1,5 @@
 
-# 🌟 Telegram Bot with Welcome Message and Interaction 🌟
+# 🌟Random Chat Telegram Bot🌟
 
 This project is a simple and interactive Telegram bot built with Node.js. It welcomes new users with a personalized message and allows users to ask questions or interact with the bot.
 
